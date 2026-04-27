@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kylearmystrong10/kylearmystrong10/main/profile-pic.png" width="250"/>
+  <img src="profile-pic.png" width="250"/>
 </p>
 
 ## Hi, I’m Kyle Armstrong
