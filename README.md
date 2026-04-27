@@ -5,6 +5,7 @@
 ## Hi, I’m Kyle Armstrong 👋
 
 🧹 Working with messy data until it makes sense.
+
 💻 Motivating future Data Analyst focused on turning data into clear, actionable insights.  
 📊 Working on improving skills in SQL, Excel, Tableau, and Python for data analysis and visualization.  
 📈 Experienced in cleaning, analyzing, and telling stories with real-world datasets.  
